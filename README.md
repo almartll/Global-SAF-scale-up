@@ -1,4 +1,4 @@
-# SAF Scale up 
+# Global and EU SAF Scale up 
 This repository contains the full model codes to run and reproduce all the results and figures of the manuscript:
 
 Martulli, A., Brandt, K., Allroggen, F., and Malina, R.: The potential scale-up of sustainable aviation fuels production capacity to meet global and EU policy targets.
