@@ -247,7 +247,7 @@ def diffusion(demand_jet_fuel, initial_capacity_samples, growth_rate_samples, de
     return results
 
 #Defining parameters
-N = 50  # Number of Monte Carlo simulations
+N = 50000  # Number of Monte Carlo simulations
 
 status_capacity = "Announced_capacity_by_status_global.csv"
 status_capacity = pd.read_csv(status_capacity)
