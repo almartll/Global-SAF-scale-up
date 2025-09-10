@@ -7,5 +7,10 @@ The input data files and the Global SAF Capacity DB are contained in the Input D
 
 The Results folder contains the files that can be used to generate the figures of the manuscript.
 
-
+Software package versions employed to generate the results:
+Python - 3.11.13
+Numpy - 2.3.2
+Pandas - 2.3.2
+Scipy - 1.16.1
+Openpyxl - 3.1.5
 
